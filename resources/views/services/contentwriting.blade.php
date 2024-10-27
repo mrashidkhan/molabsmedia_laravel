@@ -11,7 +11,7 @@
                             <img src="{{ asset('assets/images/team/uzmaabbas.png') }}" alt="">
                         </div>
                         <div class="speaker-content">
-                            <h3 class="speaker-name">Molabs Media</h3>
+                            <h3 class="speaker-name">Mo-Labs Media</h3>
                             <p class="speaker-designation">Best Event Organizing Company</p>
                             <div class="speaker-social">
                                 <ul>
@@ -32,14 +32,14 @@
 
                             <div class="speaker-biography">
                                 <h3 class="main-title">Elevate Your Brand with Engaging Content</h3>
-                                <p>At <strong>Molabs Media</strong>, we specialize in crafting compelling creative writing services tailored for websites, portfolios, and more. Based in Dallas, Texas, our team understands the importance of impactful storytelling in capturing your audience’s attention. We work closely with you to ensure that your unique voice shines through in every piece we create.</p>
+                                <p>At <strong>Mo-Labs Media</strong>, we specialize in crafting compelling creative writing services tailored for websites, portfolios, and more. Based in Dallas, Texas, our team understands the importance of impactful storytelling in capturing your audience’s attention. We work closely with you to ensure that your unique voice shines through in every piece we create.</p>
                             </div>
                             <div class="speaker-info">
                                 <div class="row">
                                     <div class="col-md-7">
                                         <div class="speaker-info-desc">
                                             <h3 class="main-title">Tailored Writing Solutions</h3>
-                                            <p>Whether you need captivating website copy or polished portfolio content, <strong>Molabs Media</strong> is here to help. Our experienced writers focus on delivering high-quality, tailored solutions that resonate with your target audience. We are committed to helping you communicate your message effectively, ensuring that your content stands out in a crowded</p>
+                                            <p>Whether you need captivating website copy or polished portfolio content, <strong>Mo-Labs Media</strong> is here to help. Our experienced writers focus on delivering high-quality, tailored solutions that resonate with your target audience. We are committed to helping you communicate your message effectively, ensuring that your content stands out in a crowded</p>
                                         </div>
                                     </div>
                                     <div class="col-md-5">

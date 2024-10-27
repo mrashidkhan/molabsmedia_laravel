@@ -25,7 +25,7 @@
                 <div class="about-2-content-wrap">
                     <!-- Section Title Start -->
                     <div class="meeta-section-title-2">
-                        <h4 class="sub-title">About Molabs Media</h4>
+                        <h4 class="sub-title">About Mo-Labs Media</h4>
                         <h2 class="main-title">Dallas-Based Event Organizers, Shining Bright.</h2>
                     </div>
                     <!-- Section Title End -->

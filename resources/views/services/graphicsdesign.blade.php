@@ -11,13 +11,13 @@
                             <img src="{{ asset('assets/images/team/mabbas.png') }}" alt="">
                         </div>
                         <div class="speaker-content">
-                            <h3 class="speaker-name">Molabs Media</h3>
+                            <h3 class="speaker-name">Mo-Labs Media</h3>
                             <p class="speaker-designation">Best Event Organizing Company</p>
                             <div class="speaker-social">
                                 <ul>
-                                    <li><a class="share-facebook" href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a class="share-twitter" href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a class="share-pinterest" href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                                    <li><a class="share-facebook" href="https://www.facebook.com/Molabsmedia/"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a class="share-twitter" href="https://twitter.com/molabsmedia"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a class="share-pinterest" href="https://www.instagram.com/molabs_media/"><i class="fab fa-instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -32,14 +32,14 @@
 
                             <div class="speaker-biography">
                                 <h3 class="main-title">Bringing Your Ideas to Life with Stunning Graphics</h3>
-                                <p>At <strong>Molabs Media</strong>, we excel in creating visually striking graphics that enhance your brand identity. Based in Dallas, Texas, our talented graphic designers collaborate with you to understand your vision and deliver custom designs that resonate with your audience. From logos to marketing materials, we ensure that every graphic reflects your unique style and message.</p>
+                                <p>At <strong>Mo-Labs Media</strong>, we excel in creating visually striking graphics that enhance your brand identity. Based in Dallas, Texas, our talented graphic designers collaborate with you to understand your vision and deliver custom designs that resonate with your audience. From logos to marketing materials, we ensure that every graphic reflects your unique style and message.</p>
                             </div>
                             <div class="speaker-info">
                                 <div class="row">
                                     <div class="col-md-7">
                                         <div class="speaker-info-desc">
                                             <h3 class="main-title">Design Solutions for Every Project</h3>
-                                            <p>Whether you need eye-catching social media graphics or professional branding materials, <strong>Molabs Media</strong> is here to support your design needs. Our team is dedicated to providing high-quality, tailored solutions that help your business stand out. We leverage the latest design trends and techniques to create compelling visuals that drive engagement and leave a lasting impression.</p>
+                                            <p>Whether you need eye-catching social media graphics or professional branding materials, <strong>Mo-Labs Media</strong> is here to support your design needs. Our team is dedicated to providing high-quality, tailored solutions that help your business stand out. We leverage the latest design trends and techniques to create compelling visuals that drive engagement and leave a lasting impression.</p>
                                         </div>
                                     </div>
                                     <div class="col-md-5">

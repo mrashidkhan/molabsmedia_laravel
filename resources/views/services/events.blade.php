@@ -11,13 +11,13 @@
                             <img src="{{ asset('assets/images/team/mabbas.png') }}" alt="">
                         </div>
                         <div class="speaker-content">
-                            <h3 class="speaker-name">Molabs Media</h3>
+                            <h3 class="speaker-name">Mo-Labs Media</h3>
                             <p class="speaker-designation">Best Event Organizing Company</p>
                             <div class="speaker-social">
                                 <ul>
-                                    <li><a class="share-facebook" href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a class="share-twitter" href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a class="share-pinterest" href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                                    <li><a class="share-facebook" href="https://www.facebook.com/Molabsmedia/"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a class="share-twitter" href="https://twitter.com/molabsmedia"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a class="share-pinterest" href="https://www.instagram.com/molabs_media/"><i class="fab fa-instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -32,14 +32,14 @@
 
                             <div class="speaker-biography">
                                 <h3 class="main-title">Capturing Your Special Moments in Dallas, Texas</h3>
-                                <p>At <strong>Molabs Media</strong>, we provide high-quality videography services for weddings, engagements, birthdays, and other special events in Dallas, Texas. Our experienced team is dedicated to preserving the essence of your celebrations. We tailor our approach to meet your unique needs, creating stunning videos that reflect your personality. With state-of-the-art equipment, we transform your special occasions into timeless memories.</p>
+                                <p>At <strong>Mo-Labs Media</strong>, we provide high-quality videography services for weddings, engagements, birthdays, and other special events in Dallas, Texas. Our experienced team is dedicated to preserving the essence of your celebrations. We tailor our approach to meet your unique needs, creating stunning videos that reflect your personality. With state-of-the-art equipment, we transform your special occasions into timeless memories.</p>
                             </div>
                             <div class="speaker-info">
                                 <div class="row">
                                     <div class="col-md-7">
                                         <div class="speaker-info-desc">
                                             <h3 class="main-title">Professional Videography</h3>
-                                            <p>Whether it’s an intimate wedding or a lively birthday celebration, <strong>Molabs Media</strong> offers exceptional videography services. Our skilled videographers collaborate closely with you to capture key moments and emotions. From initial consultations to final edits, we prioritize your satisfaction and aim to deliver a product that exceeds expectations. Trust us to bring your story to life with captivating video content.</p>
+                                            <p>Whether it’s an intimate wedding or a lively birthday celebration, <strong>Mo-Labs Media</strong> offers exceptional videography services. Our skilled videographers collaborate closely with you to capture key moments and emotions. From initial consultations to final edits, we prioritize your satisfaction and aim to deliver a product that exceeds expectations. Trust us to bring your story to life with captivating video content.</p>
                                         </div>
                                     </div>
                                     <div class="col-md-5">

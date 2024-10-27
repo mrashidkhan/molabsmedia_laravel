@@ -6,27 +6,27 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Molabs Media</title>
+    <title> Mo-Labs Media</title>
     <meta name="robots" content="noindex, follow" />
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <head>
         <!-- Open Graph metadata -->
-        <meta property="og:title" content="Molabs Media" />
-        <meta property="og:description" content="Experience the vibrant culture of India and Pakistan with Molabs Media! We organize and promote exciting event shows that bring people together. Follow us for updates on upcoming events and behind-the-scenes peeks into the world of Indian and Pakistani entertainment." />
-        <meta property="og:image" content="https://molabsmediatemp.com/assets/images/diamond-logo.png" />
+        <meta property="og:title" content="Mo-Labs Media" />
+        <meta property="og:description" content="Experience the vibrant culture of India and Pakistan with Mo-Labs Media! We organize and promote exciting event shows that bring people together. Follow us for updates on upcoming events and behind-the-scenes peeks into the world of Indian and Pakistani entertainment." />
+        <meta property="og:image" content="https://molabsmedia.com/assets/images/diamond-logo.png" />
         <meta property="og:url" content="https://molabsmedia.com" />
-        <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Your Site Name" />
+        <meta property="og:type" content="Website" />
+        <meta property="og:site_name" content="Mo-Labs Media" />
 
         <!-- Twitter Card metadata -->
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@yourtwitterhandle" />
-        <meta name="twitter:creator" content="@yourtwitterhandle" />
-        <meta name="twitter:title" content="Molabs Media" />
-        <meta name="twitter:description" content="Experience the vibrant culture of India and Pakistan with Molabs Media! We organize and promote exciting event shows that bring people together. Follow us for updates on upcoming events and behind-the-scenes peeks into the world of Indian and Pakistani entertainment." />
-        <meta name="twitter:image" content="https://molabsmediatemp.com/assets/images/diamond-logo.png" />
+        <meta name="twitter:site" content="@MolabsMedia" />
+        <meta name="twitter:creator" content="@MolabsMedia" />
+        <meta name="twitter:title" content="Mo-Labs Media" />
+        <meta name="twitter:description" content="Experience the vibrant culture of India and Pakistan with Mo-Labs Media! We organize and promote exciting event shows that bring people together. Follow us for updates on upcoming events and behind-the-scenes peeks into the world of Indian and Pakistani entertainment." />
+        <meta name="twitter:image" content="https://molabsmedia.com/assets/images/diamond-logo.png" />
       </head>
 
     <!-- Favicon -->
@@ -233,7 +233,7 @@
                             <a href="#"><img src="{{ asset('assets/images/cart/cart-1.jpg') }}" alt="Cart"></a>
                         </div>
                         <div class="mini-cart-item-content">
-                            <h4 class="mini-cart-title"><a href="#">Molabs Media USA </a></h4>
+                            <h4 class="mini-cart-title"><a href="#">Mo-Labs Media USA </a></h4>
                             <p class="mini-cart-quantity">1 × $19.99</p>
                         </div>
                         <button class="btn-close"></button>
@@ -244,7 +244,7 @@
                             <a href="#"><img src="{{ asset('assets/images/cart/cart-2.jpg') }}" alt="Cart"></a>
                         </div>
                         <div class="mini-cart-item-content">
-                            <h4 class="mini-cart-title"><a href="#">Molabs Media </a></h4>
+                            <h4 class="mini-cart-title"><a href="#">Mo-Labs Media </a></h4>
                             <p class="mini-cart-quantity">1 × $19.99</p>
                         </div>
                         <button class="btn-close"></button>
@@ -255,7 +255,7 @@
                             <a href="#"><img src="{{ asset('assets/images/cart/cart-3.jpg') }}" alt="Cart"></a>
                         </div>
                         <div class="mini-cart-item-content">
-                            <h4 class="mini-cart-title"><a href="#">Molabs Media USA </a></h4>
+                            <h4 class="mini-cart-title"><a href="#">Mo-Labs Media USA </a></h4>
                             <p class="mini-cart-quantity">1 × $19.99</p>
                         </div>
                         <button class="btn-close"></button>

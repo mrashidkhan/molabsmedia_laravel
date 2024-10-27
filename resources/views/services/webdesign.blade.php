@@ -11,13 +11,13 @@
                             <img src="{{ asset('assets/images/team/uzmaabbas.png') }}" alt="">
                         </div>
                         <div class="speaker-content">
-                            <h3 class="speaker-name">Molabs Media</h3>
+                            <h3 class="speaker-name">Mo-Labs Media</h3>
                             <p class="speaker-designation">Best Event Organizing Company</p>
                             <div class="speaker-social">
                                 <ul>
-                                    <li><a class="share-facebook" href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a class="share-twitter" href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a class="share-pinterest" href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                                    <li><a class="share-facebook" href="https://www.facebook.com/Molabsmedia/"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a class="share-twitter" href="https://twitter.com/molabsmedia"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a class="share-pinterest" href="https://www.instagram.com/molabs_media/"><i class="fab fa-instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -32,14 +32,14 @@
 
                             <div class="speaker-biography">
                                 <h3 class="main-title">Transforming Your Vision into Reality</h3>
-                                <p>At <strong>Molabs Media</strong>, we specialize in creating stunning, user-friendly websites that elevate your brand and captivate your audience. Our team of expert web designers in Dallas, Texas, work closely with you to understand your unique needs and goals, crafting custom solutions that exceed your expectations.</p>
+                                <p>At <strong>Mo-Labs Media</strong>, we specialize in creating stunning, user-friendly websites that elevate your brand and captivate your audience. Our team of expert web designers in Dallas, Texas, work closely with you to understand your unique needs and goals, crafting custom solutions that exceed your expectations.</p>
                             </div>
                             <div class="speaker-info">
                                 <div class="row">
                                     <div class="col-md-7">
                                         <div class="speaker-info-desc">
                                             <h3 class="main-title">Custom Web Design Solutions</h3>
-                                            <p>Whether you need a sleek website redesign or a brand-new online presence, <strong>Molabs Media</strong> is here to help. Our experienced web designers focus on delivering high-quality, responsive designs that engage your target audience and drive results. We stay up-to-date with the latest trends and technologies to ensure your website stands out in a competitive marketplace.</p>
+                                            <p>Whether you need a sleek website redesign or a brand-new online presence, <strong>Mo-Labs Media</strong> is here to help. Our experienced web designers focus on delivering high-quality, responsive designs that engage your target audience and drive results. We stay up-to-date with the latest trends and technologies to ensure your website stands out in a competitive marketplace.</p>
                                         </div>
                                     </div>
                                     <div class="col-md-5">

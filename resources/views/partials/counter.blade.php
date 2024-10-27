@@ -1,7 +1,7 @@
 <!-- Section Title Start -->
 <div class="meeta-section-title-2 text-center">
     <h4 class="sub-title">Our Achievements</h4>
-    <h2 class="main-title">Molabs Media at a Glance</h2>
+    <h2 class="main-title">Mo-Labs Media at a Glance</h2>
 </div>
 <!-- Section Title End -->
 

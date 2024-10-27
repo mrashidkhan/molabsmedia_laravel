@@ -5,7 +5,7 @@
             <div class="col-lg-12">
                 <div class="meeta-hero-content text-center">
                     <p class="text" data-aos-delay="700" data-aos="fade-up"> Your Business is unique for us!</p>
-                    <h2 class="title" data-aos-delay="800" data-aos="fade-up">Molabs <br> <span>Media</span></h2>
+                    <h2 class="title" data-aos-delay="800" data-aos="fade-up">Mo-Labs <br> <span>Media</span></h2>
                     <div class="header-btn" data-aos-delay="900" data-aos="fade-up">
                         <a class="btn-2" href="{{ route('contact') }}">Contact Us</a>
                     </div>

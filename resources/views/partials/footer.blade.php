@@ -133,7 +133,7 @@
         <div class="footer-copyright text-center">
             <div class="container">
                 <div class="copyright-text">
-                    <p>2024 Copyright Molabs Media USA. All Rights Reserved</p>
+                    <p>2024 Copyright Mo-Labs Media. All Rights Reserved</p>
                 </div>
             </div>
         </div>

@@ -5,7 +5,7 @@
             <!-- Section Title Start -->
             <div class="meeta-section-title-2 text-center">
                 <h4 class="sub-title">Our Team</h4>
-                <h2 class="main-title text-white">Molabs Media</h2>
+                <h2 class="main-title text-white">Mo-Labs Media</h2>
             </div>
             <!-- Section Title End -->
             <div class="meeta-speakers-content-wrap-2">
